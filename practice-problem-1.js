@@ -13,3 +13,11 @@
 // Sample Input: 1000, 700
 // Output: 300
 
+
+var MomGave = 1000;
+var orange = 400;
+var apples = 300;
+
+var shopkeeperReturn = 1000-(400 + 300);
+
+console.log(shopkeeperReturn);
