@@ -1,12 +1,18 @@
-//----------------------------------- Practice Problem 2--------------------------------------
-// Write a program to calculate the average marks of Mathematics, Biology, Chemistry, Physics, and
-// Bangla of a student.
+//----------------------------------- Practice Problem 3-----------------------------------
 
-// Input:
-// The first line of the input is the marks of the five subjects mentioned above, respectively.
+// John's teacher gave him two variables. Each variable contains a string. John's teacher asked him to
+//  combine these two strings and print them in one line. Help John write the program.
 
-// Output: Print the result in 2 decimal places.
+// Input: The first and the second lines of the input contain the strings.
 
-// Sample Input: 75.25, 65, 80, 35.45, 99.50
+//  Output: Print the result in one line.
 
-// Output: 71.04
+//                 Sample Input:
+//                 I am going to be
+//                 an awesome web developer
+
+//                 Output: I am going to be an awesome web developer
+
+var line1
+
+
